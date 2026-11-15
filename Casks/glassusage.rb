@@ -1,10 +1,10 @@
 cask "glassusage" do
-  version "1.0.1"
-  sha256 "ceb34aae0f8c74fb3477fdf975520e6382240e07a4f46dac86d24de702bc9fd9"
+  version "1.1.0"
+  sha256 "8b6a50971cedc7c3fc72347f7500a9640f7bc40b6b6fa01f2984e8fd59c94bf5"
 
   url "https://github.com/bubb4rd/GlassUsage/releases/download/v#{version}/GlassUsage-#{version}.zip"
   name "GlassUsage"
-  desc "Claude and Codex plan limits and token spend in the menu bar"
+  desc "Coding agent plan limits and token spend in the menu bar"
   homepage "https://github.com/bubb4rd/GlassUsage"
 
   livecheck do
