@@ -1,6 +1,6 @@
 cask "glassusage" do
-  version "1.5.1"
-  sha256 "2bee85e53b16bdfa7861af7acb8aa531fc73cd2ab0b6396f4b4458ee74968e97"
+  version "1.5.2"
+  sha256 "0103685471153e83788e9edeca4228c9c110ff02e7df61eae9b9c3a98f529788"
 
   url "https://github.com/bubb4rd/GlassUsage/releases/download/v#{version}/GlassUsage-#{version}.zip"
   name "GlassUsage"
